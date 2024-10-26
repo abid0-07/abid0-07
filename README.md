@@ -1,4 +1,4 @@
-Here's a draft for your README.md that highlights your journey and skills:
+
 
 ---
 
