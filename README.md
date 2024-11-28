@@ -36,7 +36,7 @@ I started with the basics—learning programming fundamentals, gradually progres
 ---
 
 ### 📄 My CV  
-[View My CV]([link-to-your-resume.pdf](https://drive.google.com/file/d/1B5cHnEeEB45p1J1wghnBsNCXykJfINtE/view?usp=drive_link))
+[View My CV](https://drive.google.com/file/d/1B5cHnEeEB45p1J1wghnBsNCXykJfINtE/view?usp=drive_link)
 
 ---
 
