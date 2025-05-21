@@ -89,6 +89,3 @@ Thanks for stopping by! 😊 I’m always open to collaborations and discussions
 
 Thank you for stopping by! I'm always open to collaborations, discussions, and learning opportunities. Feel free to connect or explore my repositories!
 
---- 
-
-This version introduces you, emphasizes your journey, and highlights your skills and ongoing goals. Let me know if you'd like any adjustments!
