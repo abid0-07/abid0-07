@@ -35,10 +35,7 @@ I started with the basics—learning programming fundamentals, gradually progres
 
 ---
 
-### 📄 My CV  
-[View My CV]([https://drive.google.com/file/d/1B5cHnEeEB45p1J1wghnBsNCXykJfINtE/view?usp=drive_link](https://docs.google.com/document/d/19VFFjr9Ok_BknROkdoJiNHTBsZDkeiVI/edit?usp=sharing&ouid=106476938826389554473&rtpof=true&sd=true))
 
----
 
 ### 💻 Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -82,7 +79,7 @@ I started with the basics—learning programming fundamentals, gradually progres
 
 ### 🏆 Profile Summary:
 - **Total Stars Earned:** 5
-- **Total Commits (2024):** 165
+- **Total Commits (2025):** 165
 - **Total PRs:** 1
 - **Total Issues:** 15
 - **Contributions (Last Year):** 0
